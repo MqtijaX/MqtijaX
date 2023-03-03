@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MqtijaX
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning programing in c sharp
+- 🌱 I’m currently learning programing in Python
 
 <!---
 MqtijaX/MqtijaX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
